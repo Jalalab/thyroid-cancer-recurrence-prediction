@@ -10,7 +10,7 @@ A reproducible machine learning pipeline to predict **thyroid cancer recurrence*
 using routinely collected clinical and pathological features from 5,351 patients.
 
 > 📄 **Course:** CSE445 — North South University, Dhaka, Bangladesh (2025)  
-> 👨‍💻 **Authors:** Jalal Abedin Pial  
+> 👨‍💻 **Author:** Jalal Abedin Pial  
 > 🎓 **Supervisor:** Dr. Sifat Momen
 
 ---
