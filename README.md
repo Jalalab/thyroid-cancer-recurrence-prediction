@@ -142,19 +142,7 @@ jupyter notebook Final_project.ipynb
 ```
 > Or upload to **Google Colab** and run all cells.
 
----
 
-## 📊 Visual Results
-
-| Chart | Description |
-|---|---|
-| Confusion Matrices | 4 models compared side-by-side |
-| ROC Curves | AUC comparison across all models |
-| SHAP Summary Plot | Feature contribution direction & magnitude |
-| Feature Importance | Top 30 features from Random Forest |
-| Before/After SMOTE | Class distribution visualization |
-
----
 
 ## ⚠️ Limitations & Future Work
 
